@@ -7,5 +7,6 @@ fromage
 chocolat
 fraises
 melon
+banane
 citron
 amandes
