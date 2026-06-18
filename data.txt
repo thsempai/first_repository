@@ -5,3 +5,4 @@ abricots
 fromage
 chocolat
 fraises
+citron
