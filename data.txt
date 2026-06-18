@@ -5,6 +5,7 @@ tomates
 abricots
 fromage
 chocolat
+piles
 fraises
 melon
 banane
