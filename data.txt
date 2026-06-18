@@ -7,3 +7,4 @@ fromage
 chocolat
 fraises
 citron
+amandes
