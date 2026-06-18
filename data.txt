@@ -1,4 +1,5 @@
 chips
+haricots
 café
 tomates
 abricots
