@@ -6,5 +6,6 @@ abricots
 fromage
 chocolat
 fraises
+melon
 citron
 amandes
