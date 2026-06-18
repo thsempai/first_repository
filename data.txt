@@ -1,3 +1,5 @@
+chips
+café
 tomates
 abricots
 fromage
